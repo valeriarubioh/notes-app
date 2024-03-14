@@ -14,8 +14,7 @@ Frontend Port: 3001
 Clone the repository:
 
 ```bash
-git clone https://github.com/ensolvers-github-challenges/Rubio-37248f.git
-cd Rubio-37248f
+git clone https://github.com/valeriarubioh/notes-app.git
 ```
 #### Setting Up the Backend and Database
 
